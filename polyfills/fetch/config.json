@@ -15,6 +15,7 @@
 	],
 	"spec": "https://fetch.spec.whatwg.org/",
 	"repo": "https://github.com/github/fetch",
+	"license": "MIT",
 	"notes": [
 		"Uses FileReader and Blob if they exist, and depends on FormData"
 	],
